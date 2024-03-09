@@ -29,7 +29,7 @@
 
 /* START THREE PHOTO MODULES CSS*/
 .team-card {
-    height: 100%; /* Ensure all cards have the same height */
+    height: 70%; /* Ensure all cards have the same height */
     margin-bottom: 20px; /* Add margin between cards */
 }
 
